@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Interstellar tech solutions you can count on."
+  content : "Software solutions. Website management. Frontend, Backend, and Full-stack implementations to solve your problems."
+  button:
+    enable : true
+    label : "Blast Off"
+    link : "#services"

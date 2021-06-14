@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Galaktik Executables</title>
+    <link>https://exe.galaktik.io/categories/</link>
+    <description>Recent content in Categories on Galaktik Executables</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 Developed by [Galaktik Executables](.) using a theme designed by [Themefisher](https://themefisher.com)</copyright>
+    
+	<atom:link href="https://exe.galaktik.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

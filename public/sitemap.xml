@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://exe.galaktik.io/blog/</loc>
+    <lastmod>2021-06-05T14:09:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exe.galaktik.io/</loc>
+    <lastmod>2021-06-05T14:09:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exe.galaktik.io/blog/post2/</loc>
+    <lastmod>2021-06-05T14:09:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exe.galaktik.io/blog/post3/</loc>
+    <lastmod>2021-06-05T14:09:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exe.galaktik.io/blog/post1/</loc>
+    <lastmod>2021-06-05T13:57:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://exe.galaktik.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://exe.galaktik.io/tags/</loc>
+  </url>
+  
+</urlset>
