@@ -9,7 +9,7 @@ backend:
   base_url: https://3.95.160.137:3000 #URL of the OAuth provider
   repo: KatamariJr/GalaktikExe
 
-media_folder: "public/images/uploads"
+media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 site_url: https://exe.galaktik.io
 
