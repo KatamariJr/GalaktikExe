@@ -25,6 +25,4 @@ collections:
       - { label: "Draft", name: "draft", widget: "boolean", required: false}
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "settings"
-    label: "Settings"
 
