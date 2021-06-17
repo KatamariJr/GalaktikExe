@@ -10,6 +10,7 @@ backend:
   repo: KatamariJr/GalaktikExe
 
 media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
 site_url: https://exe.galaktik.io
 
 collections:
