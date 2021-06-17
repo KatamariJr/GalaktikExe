@@ -2,16 +2,16 @@
 contact:
   enable : true
   title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  subtitle : We look forward to hearing from you.
+  content : Shoot us an email to get in contact with us for a project.
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "Baltimore, Maryland"
       
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@galaktik.com" # todo!!!
+    #- icon : ti-email # themify icon pack : https://themify.me/themify-icons
+    #  info : "Email: hello@galaktik.com" # todo!!!
 
 
   # Contact form
