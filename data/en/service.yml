@@ -6,14 +6,14 @@ service:
     # service item loop
     - name : Custom Servers
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Web APIs, database systems, game servers, and more. Anything you need for your product to be connected.
 
     # service item loop
     - name : Website Design and Management
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Beautiful, elegant, sleek website designs. No-hassle website management. Simple interfaces that let you quickly and concisely create and update your site content without worrying about servers or deployment.
 
     # service item loop
     - name : Custom Desktop Applications
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Automate your life. Custom Windows and CLI applications to take any repetitive task and build an elegant interface around it.

@@ -5,12 +5,12 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : Outside the Box
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : Any problem can be approached multiple ways. We help find the best solution for your requirements.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : Speedy and Communcative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : We are in constant contact with our clients at every step of the project.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Secure
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : You can sleep soundly knowing your data is safeguarded from malicious users.
