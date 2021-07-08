@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
   branch: master
-  identity_url: "https://exe.galaktik.io:9999" #location of your OAuth server, e.g. GoTrue
-  gateway_url: "http://localhost:9999" #location of the git-gateway server
+  identity_url: "https://gotrue.auth.galaktik.io" #location of your OAuth server, e.g. GoTrue
+  gateway_url: "https://gitgateway.auth.galaktik.io/instances/35a71fb6-0c55-4c23-977f-72b19426548f" #location of the git-gateway server
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
